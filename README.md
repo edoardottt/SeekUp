@@ -5,8 +5,8 @@
 </p>
 <br>
 
-## Progetto Ingegneria del Software - Informatica, Università La Sapienza di Roma.
-## Voto: 29
+### Progetto Ingegneria del Software - Informatica, Università La Sapienza di Roma.
+### Voto: 29
 
 ### Documenti:
 
