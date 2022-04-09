@@ -27,3 +27,9 @@
   - [Christian Sordi](https://github.com/ChristianSordi)
   - [Alessandro Olivieri](https://github.com/alexoli883)
   - Alfredo Orsini
+
+
+--------------
+
+
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it/) to contact me.
